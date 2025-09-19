@@ -1,0 +1,11 @@
+automsg:
+  one:
+  - ""
+  - "automsg1"
+  - "automsg2"
+  - ""
+  second:
+  - ""
+  - "automsg1"
+  - "automsg2"
+  - ""

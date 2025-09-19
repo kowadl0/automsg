@@ -1,11 +1,8 @@
 automsg:
   one:
-  - " "
-  - "&eChcesz zostać &bTrialSupportem&e?1"
-  - "&6Napisz podanie na &ediscord.gg/mooneu!"
-  - " "
-  second:
-  - " "
-  - "&eChcesz zostać &bTrialSupportem&b?2"
-  - "&6Napisz podanie na &ediscord.gg/mooneu!"
-  - " "
+  - "&8» &6Sprawdź wyjątkowe &erangi &6oraz &eskrzynie&6 na naszej stronie! &8«"
+  - "&7▸ &6Link: &ehttps://mooneu.pl/"
+second:
+  - "&8» &eRekrutacja na &bTrialSupporta!&b &8«"
+  - "&7▸ &6Znasz się na serwerze i spełniasz wymagania?"
+  - "&7▸ &eNapisz podanie na: &bdiscord.gg/mooneu"

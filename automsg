@@ -1,11 +1,7 @@
 automsg:
   one:
-  - ""
-  - "automsg1"
-  - "automsg1"
-  - ""
+  - "&eChcesz zostać &bTrialSupportem&e?"
+  - "&6Napisz podanie na &ediscord.gg/mooneu!"
   second:
-  - ""
-  - "automsg2"
-  - "automsg2"
-  - ""
+  - "&eChcesz zostać &bTrialSupportem&e?"
+  - "&6Napisz podanie na &ediscord.gg/mooneu!"

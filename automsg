@@ -2,10 +2,10 @@ automsg:
   one:
   - ""
   - "automsg1"
-  - "automsg2"
+  - "automsg1"
   - ""
   second:
   - ""
-  - "automsg1"
+  - "automsg2"
   - "automsg2"
   - ""

@@ -1,26 +1,26 @@
 automsg:
   one:
-    - "&8» &6Sprawdź wyjątkowe &erangi &6oraz &eskrzynie&6 na naszej stronie! &8«"
-    - "&7▸ &6Link: &ehttps://mooneu.pl/"
+    - "&8✦ &6Sprawdź wyjątkowe &erangi &6oraz &eskrzynie &6na naszej stronie! &8✦"
+    - "&7▸ &6Link: &e&lhttps://mooneu.pl/"
   rekrutacja:
-    - "&8» &eRekrutacja na &bTrialSupporta!&b &8«"
+    - "&8✦ &e&lRekrutacja na &b&lTrialSupporta! &8✦"
     - "&7▸ &6Znasz się na serwerze i spełniasz wymagania?"
-    - "&7▸ &eNapisz podanie na: &bdiscord.gg/mooneu"
+    - "&7▸ &eNapisz podanie na: &b&l&ndiscord.gg/mooneu"
   discord:
-    - "&#999999» &#ffaa00Dołącz do naszej społeczności na Discordzie! &#999999«"
-    - "&#bbbbbb▸ &#55ffffPełne regulaminy &#bbbbbboraz &#55ffffważne ogłoszenia &#bbbbbbznajdziesz właśnie tam"
-    - "&#bbbbbb▸ &#55aaffZapraszamy: &#ffaa00discord.gg/mooneu"
+    - "&#999999✦ &#ffaa00Dołącz do naszej społeczności na Discordzie! &#999999✦"
+    - "&#bbbbbb▸ &#55ffffPełne regulaminy & &#bbbbbbogłoszenia &#55ffffznajdziesz tam"
+    - "&#bbbbbb▸ &#55aaffZapraszamy: &#ffaa00&l&ndiscord.gg/mooneu"
   tiktok:
-    - "&#555555» &#ff0055Oficjalny TikTok serwera &#555555«"
-    - "&#aaaaaa▸ &fZobacz najciekawsze momenty z gry i zabawne klipy."
-    - "&#aaaaaa▸ &fNie przegap okazji na &6darmowe rangi &fi &enagrody!"
-    - "&#aaaaaa▸ &#ffffffOdwiedź: &#ff0055https://tt.mooneu.pl/"
+    - "&#555555✦ &#ff0055Oficjalny TikTok serwera &#555555✦"
+    - "&#aaaaaa▸ &fZobacz najciekawsze momenty z gry i zabawne klipy"
+    - "&#aaaaaa▸ &fNie przegap &6darmowych rang &fi &enagród!"
+    - "&#aaaaaa▸ &#ffffffOdwiedź: &#ff0055&l&nhttps://tt.mooneu.pl/"
   sellwand:
-    - "&#555555» &6SellWandy&e wysokiego poziomu mają boostery zarobku! &8(&7/skrzynki&8) "
-    - "&#aaaaaa▸ &aSkrzynie SellWand kupisz na: https://mooneu.pl!"
+    - "&#555555✦ &6SellWandy &ee wysokiego poziomu mają &abostery zarobku! &#555555✦"
+    - "&#aaaaaa▸ &aSkrzynie SellWand kupisz na: &6&l&nhttps://mooneu.pl/"
   moon:
-    - "&6Ranga &bMOON&6 może odbierać prawie wszystkie kity &crang nizszych!"
-    - "&bRangę kupisz na &ehttps://mooneu.pl!"
+    - "&6&lRanga &b&lMOON &6może odbierać prawie wszystkie kity &crang niższych!"
+    - "&7▸ &bRangę kupisz na: &e&l&nhttps://mooneu.pl/"
   booster:
-    - "&fRanga &dBOOSTER&f ma dostęp do prawie wszystkich przywilejów rangi &2MVIP!"
-    - "&dAby ją zdobyć, &dzboostuj naszego discorda:&b discord.gg/mooneu!"
+    - "&f&lRanga &d&lBOOSTER &fma dostęp do prawie wszystkich przywilejów &2&lMVIP!"
+    - "&7▸ &dAby ją zdobyć, &dzboostuj naszego discorda: &b&l&ndiscord.gg/mooneu!"

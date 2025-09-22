@@ -19,8 +19,9 @@ automsg:
     - "&#6e4b1f⚙ &#cfa349SellWandy &#e6c57ewysokiego poziomu mają &#56bfbfbostery zarobku! &#6e4b1f⚙"
     - "&#96714a▸ &#56bfbfSkrzynie SellWand kupisz na: &#cfa349&l&nhttps://mooneu.pl/"
   moon:
-    - "&#6e4b1f⛧ &#cfa349&lRanga §x§E§0§1§6§1§6&lMOON &#cfa349może odbierać prawie wszystkie kity &#d46a6a&lrang niższych! &#6e4b1f⛧"
-    - "&#96714a▸ &#56bfbfRangę kupisz na: &#e6c57e&l&nhttps://mooneu.pl/"
+    - "<color:#6e4b1f>⛧ <color:#cfa349><bold>Ranga <color:#E01616><bold>MOON <color:#cfa349>może odbierać prawie wszystkie kity <color:#d46a6a><bold>rang niższych! <color:#6e4b1f>⛧"
+    - "<color:#96714a>▸ <color:#56bfbf>Rangę kupisz na: <color:#e6c57e><bold><underlined>https://mooneu.pl/"
   booster:
-    - "&#6e4b1f⚙ &#ffffff&lRanga §x§E§7§0§0§F§F&lBOOSTER &#ffffffma dostęp do prawie wszystkich przywilejów §x§0§5§5§D§0§0&lMVIP! &#6e4b1f⚙"
-    - "&#96714a▸ &#a64ca6Aby ją zdobyć, &#cfa349zboostuj naszego discorda: &#56bfbf&l&ndiscord.gg/mooneu"
+    - "<color:#6e4b1f>⚙ <white><bold>Ranga <color:#E700FF><bold>BOOSTER <white>ma dostęp do prawie wszystkich przywilejów <color:#055D00><bold>MVIP! <color:#6e4b1f>⚙"
+    - "<color:#96714a>▸ <color:#a64ca6>Aby ją zdobyć, <color:#cfa349>zboostuj naszego discorda: <color:#56bfbf><bold><underlined>discord.gg/mooneu"
+

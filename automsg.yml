@@ -1,4 +1,7 @@
 automsg:
+  zyczenia:
+    - "&bZloz zyczenia swiateczne i noworoczne innym!"
+    - "&8▸ &7Sprawdz &6/zyczenia"
   one:
     - "&#cfa349Sprawdź wyjątkowe &#e6c57erangi &#cfa349oraz &#e6c57eskrzynie &#cfa349na naszej stronie &#6e4b1f⚙"
     - "&#96714a▸ &#cfa349Link: &#e6c57e&lhttps://mooneu.pl/"
@@ -6,6 +9,9 @@ automsg:
     - "&#6e4b1f⛧ &#d4af37&lRekrutacja na &#56bfbf&lTrialSupporta! &#6e4b1f⛧"
     - "&#96714a▸ &#cfa349Znasz się na serwerze i spełniasz wymagania?"
     - "&#96714a▸ &#e6c57eNapisz podanie na: &#56bfbf&l&ndiscord.gg/mooneu"
+  kalendarz:
+    - "&bOdbieraj dni kalendarza adwentowego!"
+    - "&8▸ &7Sprawdz &6/kalendarz"
   discord:
     - "&#6e4b1f⚙ &#d4af37Dołącz do naszej społeczności na Discordzie! &#6e4b1f⚙"
     - "&#96714a▸ &#9e9e9ePełne regulaminy & ogłoszenia znajdziesz tam"
@@ -28,3 +34,6 @@ automsg:
     - "&#6e4b1f⛧ &#b7a7f1&lRekrutacja na &#b7a7f1&lTrialModChat! &#6e4b1f⛧"
     - "&#96714a▸ &#b7a7f1Masz doświadczenie w moderowaniu czatu i znasz zasady serwera?"
     - "&#96714a▸ &#b7a7f1Wyślij swoje podanie tutaj: &#b7a7f1&l&ndiscord.gg/mooneu"
+  prezent:
+    - "&bZbieraj ukryte prezenty na &3spawnie, krainie, netherze!"
+    - "&8▸ &7Wiecej informacji /warp prezent"

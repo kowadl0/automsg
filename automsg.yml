@@ -1,10 +1,4 @@
 automsg:
-  zyczenia:
-    - ""
-    - "  &#94dfff✦ &lŚWIĘTA I NOWY ROK &#94dfff✦"
-    - "  &#e3e3e3Poczuj magię świąt razem z nami!"
-    - "  &#e3e3e3Złóż życzenia innym graczom: &#94dfff/zyczenia"
-    - ""
   one:
     - ""
     - "  &#deb887❖ &lSKLEP SERWEROWY &#deb887❖"
@@ -16,12 +10,6 @@ automsg:
     - "  &#76c7c7✦ &lREKRUTACJA: TRIALSUPPORT &#76c7c7✦"
     - "  &#e3e3e3Czujesz się na siłach, by pomagać innym?"
     - "  &#e3e3e3Złóż podanie na: &#76c7c7&ndiscord.gg/mooneu"
-    - ""
-  kalendarz:
-    - ""
-    - "  &#ffda75✦ &lKALENDARZ ADWENTOWY &#ffda75✦"
-    - "  &#e3e3e3Codziennie czeka na Ciebie nowa nagroda!"
-    - "  &#e3e3e3Odbierz prezent wpisując: &#ffda75/kalendarz"
     - ""
   discord:
     - ""
@@ -55,7 +43,7 @@ automsg:
     - ""
   rekrutacjatmodchat:
     - ""
-    - "  &#8ac926✦ &lREKRUTACJA: TRIAL MODCHAT &#8ac926✦"
+    - "  &#8ac926✦ &lREKRUTACJA: TRIALMODCHAT &#8ac926✦"
     - "  &#e3e3e3Znasz regulamin i chcesz dbać o kulturę?"
     - "  &#e3e3e3Aplikuj już teraz na: &#8ac926&ndiscord.gg/mooneu"
     - ""

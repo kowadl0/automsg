@@ -7,7 +7,7 @@ automsg:
     - ""
   rekrutacja:
     - ""
-    - "  &#6EC8FF✧ &lREKRUTACJA: HELPER &#6EC8FF✧"
+    - "  &#6EC8FF✧ &lREKRUTACJA: &f &#6EC8FF✧"
     - "  &#F5F5F5Czujesz się na siłach, by pomagać innym?"
     - "  &#F5F5F5Napisz podanie na: &#6EC8FF&ndiscord.gg/mooneu"
     - ""
@@ -25,14 +25,14 @@ automsg:
     - ""
   moon:
     - ""
-    - "  &#C084FC✧ &lRANGA MOON &#C084FC✧"
+    - "  &#C084FC✧ &lRANGA &f &#C084FC✧"
     - "  &#F5F5F5Potęga księżyca w Twoich rękach."
     - "  &#F5F5F5Zakup swoją część księżyca na: &#C084FC&nhttps://mooneu.pl/"
     - ""
   booster:
     - ""
-    - "  &#FFA07A✧ &#FF1EC2&lRANGA BOOSTER &#FFA07A✧"
-    - "  &#F5F5F5Darmowe przywileje &#0E4E00&lMVIP &r&#F5F5F5za wsparcie."
+    - "  &#FFA07A✧ &#FF1EC2&lRANGA &f &#FFA07A✧"
+    - "  &#F5F5F5Darmowe przywileje &f &r&#F5F5F5za wsparcie."
     - "  &#F5F5F5Wzmocnij Nasz serwer discord: &#FFA07A&ndiscord.gg/mooneu"
     - ""
   rekrutacjatmodchat:

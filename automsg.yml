@@ -1,4 +1,11 @@
 automsg:
+  lunarclient1:
+    - ""
+    - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
+    - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
+    - "  &#F5F5F5Odbierz ekskluzywne kosmetyki MOONEU dostępne tylko w Lunar Client!"
+    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nstore.lunarclient.com/partners/mooneu"
+    - ""
   one:
     - ""
     - "  &#F5B042✧ &lSKLEP SERWEROWY &#F5B042✧"
@@ -29,6 +36,13 @@ automsg:
     - "  &#F5F5F5Potęga księżyca w Twoich rękach."
     - "  &#F5F5F5Zakup swoją część księżyca na: &#C084FC&nhttps://mooneu.pl/"
     - ""
+  lunarclient2:
+    - ""
+    - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
+    - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
+    - "  &#F5F5F5Odbierz ekskluzywne kosmetyki Mooneu dostępne tylko w Lunar Client!"
+    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nstore.lunarclient.com/partners/mooneu"
+    - ""
   booster:
     - ""
     - "  &#FFA07A✧ &#FF1EC2&lRANGA &f &#FFA07A✧"
@@ -40,4 +54,11 @@ automsg:
     - "  &#A2E67C✧ &lREKRUTACJA: HELPERCHAT-DISCORD &#A2E67C✧"
     - "  &#F5F5F5Znasz regulamin i chcesz dbać o kulturę?"
     - "  &#F5F5F5Aplikuj już teraz na: &#A2E67C&ndiscord.gg/mooneu"
+    - ""
+  lunarclient3:
+    - ""
+    - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
+    - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
+    - "  &#F5F5F5Odbierz ekskluzywne kosmetyki Mooneu dostępne tylko w Lunar Client!"
+    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nstore.lunarclient.com/partners/mooneu"
     - ""

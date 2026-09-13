@@ -4,61 +4,70 @@ automsg:
     - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
     - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
     - "  &#F5F5F5Odbierz ekskluzywne kosmetyki MOONEU dostępne tylko w Lunar Client!"
-    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nhttps://store.lunarclient.com/partners/mooneu"
+    - "  &#F5F5F5Kup już teraz: <click:open_url:'https://store.lunarclient.com/partners/mooneu'>&#6CCBFF&nKLIKNIJ TUTAJ</click>"
     - ""
+
   one:
     - ""
     - "  &#F5B042✧ &lSKLEP SERWEROWY &#F5B042✧"
     - "  &#F5F5F5Odkryj to, co przygotowaliśmy dla Ciebie."
-    - "  &#F5F5F5Oferty rang oraz skrzyń: &#F5B042&nhttps://mooneu.pl/"
+    - "  &#F5F5F5Oferty rang oraz skrzyń: <click:open_url:'https://mooneu.pl/'>&#F5B042&nKLIKNIJ TUTAJ</click>"
     - ""
+
   rekrutacja:
     - ""
     - "  &#6EC8FF✧ &lREKRUTACJA: &f &#6EC8FF✧"
     - "  &#F5F5F5Czujesz się na siłach, by pomagać innym?"
-    - "  &#F5F5F5Napisz podanie na: &#6EC8FF&nhttps://discord.gg/mooneu"
+    - "  &#F5F5F5Napisz podanie na: <click:open_url:'https://discord.gg/mooneu'>&#6EC8FF&nKLIKNIJ TUTAJ</click>"
     - ""
+
   discord:
     - ""
     - "  &#B084EB✧ &lSPOŁECZNOŚĆ DISCORD &#B084EB✧"
     - "  &#F5F5F5Bądź na bieżąco z ogłoszeniami i zmianami."
-    - "  &#F5F5F5Dołącz do nas: &#B084EB&nhttps://discord.gg/mooneu"
+    - "  &#F5F5F5Dołącz do nas: <click:open_url:'https://discord.gg/mooneu'>&#B084EB&nKLIKNIJ TUTAJ</click>"
     - ""
+
   tiktok:
     - ""
     - "  &#FF8C8C✧ &lOFICJALNY TIKTOK &#FF8C8C✧"
     - "  &#F5F5F5Najlepsze momenty, darmowe rangi i wiele wiecej"
-    - "  &#F5F5F5Zaobserwuj już teraz &#FF8C8C&nhttps://tiktok.com/@mooneu.pl"
+    - "  &#F5F5F5Zaobserwuj już teraz <click:open_url:'https://tiktok.com/@mooneu.pl'>&#FF8C8C&nKLIKNIJ TUTAJ</click>"
     - ""
+
   moon:
     - ""
     - "  &#C084FC✧ &lRANGA &f &#C084FC✧"
     - "  &#F5F5F5Potęga księżyca w Twoich rękach."
-    - "  &#F5F5F5Zakup swoją część księżyca na: &#C084FC&nhttps://mooneu.pl/"
+    - "  &#F5F5F5Zakup swoją część księżyca na: <click:open_url:'https://mooneu.pl/'>&#C084FC&nKLIKNIJ TUTAJ</click>"
     - ""
+
   lunarclient2:
     - ""
     - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
     - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
     - "  &#F5F5F5Odbierz ekskluzywne kosmetyki MOONEU dostępne tylko w Lunar Client!"
-    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nhttps://store.lunarclient.com/partners/mooneu"
+    - "  &#F5F5F5Kup już teraz: <click:open_url:'https://store.lunarclient.com/partners/mooneu'>&#6CCBFF&nKLIKNIJ TUTAJ</click>"
     - ""
+
   booster:
     - ""
     - "  &#FFA07A✧ &#FF1EC2&lRANGA &f &#FFA07A✧"
     - "  &#F5F5F5Darmowe przywileje &f &r&#F5F5F5za wsparcie."
-    - "  &#F5F5F5Wzmocnij Nasz serwer discord: &#FFA07A&nhttps://discord.gg/mooneu"
+    - "  &#F5F5F5Wzmocnij Nasz serwer discord: <click:open_url:'https://discord.gg/mooneu'>&#FFA07A&nKLIKNIJ TUTAJ</click>"
     - ""
+
   rekrutacjatmodchat:
     - ""
     - "  &#A2E67C✧ &lREKRUTACJA: HELPERCHAT-DISCORD &#A2E67C✧"
     - "  &#F5F5F5Znasz regulamin i chcesz dbać o kulturę?"
-    - "  &#F5F5F5Aplikuj już teraz na: &#A2E67C&nhttps://discord.gg/mooneu"
+    - "  &#F5F5F5Aplikuj już teraz na: <click:open_url:'https://discord.gg/mooneu'>&#A2E67C&nKLIKNIJ TUTAJ</click>"
     - ""
+
   lunarclient3:
     - ""
     - "  &#6CCBFF✧ &lLUNAR CLIENT × MOONEU &#6CCBFF✧"
     - "  &#F5F5F5Lepsza wydajność, więcej FPS i nowoczesne funkcje."
     - "  &#F5F5F5Odbierz ekskluzywne kosmetyki MOONEU dostępne tylko w Lunar Client!"
-    - "  &#F5F5F5Kup już teraz: &#6CCBFF&nhttps://store.lunarclient.com/partners/mooneu"
+    - "  &#F5F5F5Kup już teraz: <click:open_url:'https://store.lunarclient.com/partners/mooneu'>&#6CCBFF&nKLIKNIJ TUTAJ</click>"
     - ""
